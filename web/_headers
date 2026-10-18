@@ -1,5 +1,0 @@
-/*
-  Cache-Control: no-cache, must-revalidate
-
-/assets/img/*
-  Cache-Control: public, max-age=2592000
